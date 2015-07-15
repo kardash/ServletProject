@@ -4,12 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Successfully</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>Successfully!!</h1>
-<br>
-<p>Hi <strong>${param.userName}</strong>, thanks for giving the details.</p>
-<p>Your unique password has been sent to you on <b>${param.emailID}</b></p>
+<h1>Welcom to my ServletProject!!!</h1>
+<br><a href="FirstServlet">FirstServlet</a><br>
+<br><a href="form">Multipart-form</a><br>
+<br><a href="login.jsp">jsp login submit</a><br>
+<br><a href="session"> session form</a><br>
 </body>
 </html>

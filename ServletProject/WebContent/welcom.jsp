@@ -4,12 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Successfully</title>
+<title>WELCOME</title>
 </head>
 <body>
-<h1>Successfully!!</h1>
-<br>
-<p>Hi <strong>${param.userName}</strong>, thanks for giving the details.</p>
-<p>Your unique password has been sent to you on <b>${param.emailID}</b></p>
+<h1>Welcom, ${sessionScope.username}</h1>
+<a href="session">Logout</a>
 </body>
 </html>
