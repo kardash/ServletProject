@@ -9,6 +9,7 @@
 <body>
 <h1>Welcom to my ServletProject!!!</h1>
 <br><a href="FirstServlet">FirstServlet</a><br>
+<br><a href="hello.jsp">JSP Servlet</a><br>
 <br><a href="form">Multipart-form</a><br>
 <br><a href="login.jsp">jsp login submit</a><br>
 <br><a href="session"> session form</a><br>
