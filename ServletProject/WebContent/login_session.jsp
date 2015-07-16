@@ -14,5 +14,6 @@
 		Email: <input type="password" name="pass"> 
 		<input type="submit" value="submit">
 	</form>
+	<br><br><a href="index.jsp">home</a><br>
 </body>
 </html>

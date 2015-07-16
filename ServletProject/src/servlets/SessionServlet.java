@@ -26,7 +26,7 @@ public class SessionServlet extends HttpServlet {
 		 if (name.equals("admin") && pass.equals("admin")) {
 			HttpSession sess = request.getSession();
 			sess.setAttribute("username", name);
-			response.sendRedirect("welcom.jsp");
+			response.sendRedirect("welcome.jsp");
 		}else {
 			request.setAttribute("msg", "Invalid login!");
 			request.getRequestDispatcher("login_session.jsp").forward(request, response);

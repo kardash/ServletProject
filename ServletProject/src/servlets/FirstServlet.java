@@ -18,6 +18,8 @@ public class FirstServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		 PrintWriter out = response.getWriter();
 	        out.print("<h1>Hello THIS IS Servlet!!!!</h1>");
+	        out.print("<p><a href='index.jsp'>home</p>");
+
 	}
 
 }

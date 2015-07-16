@@ -9,5 +9,6 @@
 <body>
 <h1>Welcom, ${sessionScope.username}</h1>
 <a href="session">Logout</a>
+<br><a href="index.jsp">home</a><br>
 </body>
 </html>

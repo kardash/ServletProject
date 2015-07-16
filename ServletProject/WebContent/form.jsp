@@ -23,5 +23,7 @@
 			</tr>
 		</table>
 	</form>
+	<br><br><br><a href="index.jsp">home</a><br>
+	
 </body>
 </html>

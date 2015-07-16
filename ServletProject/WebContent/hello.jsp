@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>THIS is Servlet JSP!!!!</h1>
+<br><a href="index.jsp">home</a><br>
 </body>
 </html>

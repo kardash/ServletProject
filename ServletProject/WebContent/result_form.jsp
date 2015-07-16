@@ -18,5 +18,6 @@
 				<td>${password}</td>
 			</tr>
 		</table>
+		<br><a href="index.jsp">home</a><br>
 </body>
 </html>
